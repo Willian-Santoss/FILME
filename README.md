@@ -6,6 +6,7 @@ Este repositório contém um projeto em Java que implementa classe para represen
 
 - Crie uma classe que representa o Filme. A classe deve ter os atributos título, duraçãoMin e gênero. O construtor da classe deve ter setters com os parâmetros titulo, duração e genero.
 - Crie métodos para verificar se titulo não está vazio, se a duração é maior que zero e se o genero é romance, terror ou comédia.
+- Crie métodos para apresentar os resultados no console.
 
 # 📋 Pré-requisitos
 
