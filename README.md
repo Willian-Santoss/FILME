@@ -1,4 +1,4 @@
-# PRODUTO
+# FILME
 
 Este repositório contém um projeto em Java que implementa classe para representar Filme. A classe Filme inclui funcionalidades verificar o nome, duração e gênero do filme.
 
